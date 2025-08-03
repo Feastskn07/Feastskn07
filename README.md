@@ -1,7 +1,7 @@
 # 👋 Merhaba! Ben Feas
 
 🎓 Bilgisayar Programcılığı öğrencisiyim. Kod yazmayı, sistemleri kurcalamayı ve sürekli yeni şeyler öğrenmeyi seviyorum.  
-🧠 Şu an ağırlıklı olarak .NET teknolojileri ve mobil uygulama geliştirme ile ilgileniyorum.
+<!--🧠 Şu an ağırlıklı olarak .NET teknolojileri ve mobil uygulama geliştirme ile ilgileniyorum.
 
 ---
 
@@ -12,7 +12,7 @@
 - 💡 Bir kuaför randevu sistemi projesi üzerinde çalışıyorum (ASP.NET MVC).
 - 🛠️ Yeni öğrenmeye başladığım şeyler: Blazor, iki faktörlü kimlik doğrulama, home automation (akıllı kapı).
 - 🧩 Go dili ile sistem programlama ve CLI araçlar geliştiriyorum.
-
+-->
 ---
 
 ## 🌐 Sosyal Medya
@@ -55,4 +55,3 @@
 ---
 
 > _"sorry github I haven't looked at you for a while :|"_  
-> ama artık buradayım, aktif geliştiriyorum 🚀
