@@ -1,29 +1,58 @@
-# 👋 Merhaba! Ben Feas..
+# 👋 Merhaba! Ben Feas
 
-💻 Bilgisayar Programcılığı öğrencisiyim, yazılıma ve sistemlere tutkulu bir şekilde bağlıyım!
-
-## 🙋‍♂️ Hakkımda
-- 🚀 Kendi projelerimi geliştiriyorum ve her gün yeni şeyler öğrenmeye çalışıyorum.
-- 🛠️ .NET, ASP.NET MVC, SQL Server ve Android Studio ile ilgileniyorum.
-- 🎯 Hedefim: hem backend hem frontend becerilerimi geliştirmek ve freelance projelerde yer almak.
-
-## 🌐 Sosyal Medya
-[LinkedIn](https://www.linkedin.com/in/kendi-linkin)  
-[Portföyüm](https://kendi-websiten.com)
-
-## 🧰 Kullandığım Teknolojiler
-
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=.net)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-
-## 📊 GitHub İstatistikleri
-![Feas'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=feas&show_icons=true&theme=dark)
-
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=feas&layout=compact&theme=dark)
+🎓 Bilgisayar Programcılığı öğrencisiyim. Kod yazmayı, sistemleri kurcalamayı ve sürekli yeni şeyler öğrenmeyi seviyorum.  
+🧠 Şu an ağırlıklı olarak .NET teknolojileri ve mobil uygulama geliştirme ile ilgileniyorum.
 
 ---
 
-_“sorry github I haven't looked at you for a while :|”_
+## 🧑‍💻 Şu an neler yapıyorum?
+
+- ✨ Kendi uygulamamı geliştiriyorum: notlar, ders programı, ödev takibi ve hatırlatmalar bir arada.
+- 📱 Kotlin ile Android oyunlar yazıyorum (örnek: Mayın Tarlası).
+- 💡 Bir kuaför randevu sistemi projesi üzerinde çalışıyorum (ASP.NET MVC).
+- 🛠️ Yeni öğrenmeye başladığım şeyler: Blazor, iki faktörlü kimlik doğrulama, home automation (akıllı kapı).
+- 🧩 Go dili ile sistem programlama ve CLI araçlar geliştiriyorum.
+
+---
+
+## 🌐 Sosyal Medya
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahim-taşkın-5ab2922a7)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ibrahimtskn0)
+
+---
+
+## 🚀 Teknoloji Yığını (Tech Stack)
+
+**Backend:**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+**Frontend:**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Mobil:**  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+**Diğer:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+
+---
+
+## 📊 GitHub İstatistikleri
+
+![Feas'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=feas&show_icons=true&theme=tokyonight)
+
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=feas&layout=compact&theme=tokyonight)
+
+---
+
+> _"sorry github I haven't looked at you for a while :|"_  
+> ama artık buradayım, aktif geliştiriyorum 🚀
