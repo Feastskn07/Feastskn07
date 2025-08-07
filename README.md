@@ -1,18 +1,7 @@
 # 👋 Merhaba! Ben Feas
 
 🎓 Bilgisayar Programcılığı öğrencisiyim. Kod yazmayı, sistemleri kurcalamayı ve sürekli yeni şeyler öğrenmeyi seviyorum.  
-<!--🧠 Şu an ağırlıklı olarak .NET teknolojileri ve mobil uygulama geliştirme ile ilgileniyorum.
 
----
-
-## 🧑‍💻 Şu an neler yapıyorum?
-
-- ✨ Kendi uygulamamı geliştiriyorum: notlar, ders programı, ödev takibi ve hatırlatmalar bir arada.
-- 📱 Kotlin ile Android oyunlar yazıyorum (örnek: Mayın Tarlası).
-- 💡 Bir kuaför randevu sistemi projesi üzerinde çalışıyorum (ASP.NET MVC).
-- 🛠️ Yeni öğrenmeye başladığım şeyler: Blazor, iki faktörlü kimlik doğrulama, home automation (akıllı kapı).
-- 🧩 Go dili ile sistem programlama ve CLI araçlar geliştiriyorum.
--->
 ---
 
 ## 🌐 Sosyal Medya
@@ -48,11 +37,11 @@
 
 ## 📊 GitHub İstatistikleri
 
-![Feas'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=feas&show_icons=true&theme=tokyonight)
+![Feas'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Feastskn07&show_icons=true&theme=tokyonight)
 
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=feas&layout=compact&theme=tokyonight)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Feastskn07&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=feas&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Feastskn07&theme=tokyonight&hide_border=true)
 
 ---
 
