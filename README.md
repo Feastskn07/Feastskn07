@@ -41,7 +41,7 @@
 
 ![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Feastskn07&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Feastskn07)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Feastskn07&theme=tokyonight&short_numbers=true)](https://git.io/streak-stats)
 
 ---
 
